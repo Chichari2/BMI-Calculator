@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CE510091B5B87215EAB60498F0DC382221F6CF0D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CE510091B5B87215EAB60498F0DC382221F6CF0D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CEFBCBE5-5322-45D1-8CC8-1B9908DC677B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CE510091B5B87215EAB60498F0DC382221F6CF0D" : "BMI-Calculator-iOS13\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BMI Calculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BMI Calculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appbrewery\/BMI-Calculator-iOS13.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE510091B5B87215EAB60498F0DC382221F6CF0D"
+    }
+  ]
+}
